@@ -1,7 +1,7 @@
 # dshi0197_9103_tut02
 # Quiz 8 
-** Student Name: ** Danni Shi  
-** Unit: ** IDEA9103  
+**Student Name:** Stannie Shi  
+**Unit:** IDEA9103  
 ---
 # Part1-Image Technique Inspiration
 
