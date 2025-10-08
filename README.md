@@ -16,7 +16,7 @@ This technique suits the assignment because it is highly modular, adaptable to a
 ---
 
 ##Part2-Coding Technique Exploration  
-**Technique:** Object-oriented grid structure with p5.js + audio amplitude mapping
+**Technique:** Object-oriented grid structure with p5.js & audio amplitude mapping
 
 Using a class-based grid in p5.js allows each cell to control its colour and brightness independently, while a manager class defines layout and resizing.
 By later mapping audio amplitude and frequency bands to each cell’s brightness or flicker rate, the grid can visually “dance” with sound — echoing Mondrian’s Boogie Woogie rhythm.
