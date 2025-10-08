@@ -12,7 +12,6 @@ For my project, I aim to recreate this rhythmic modularity using code — a grid
 This technique suits the assignment because it is highly modular, adaptable to animation, and captures the energetic interplay between order and improvisation.  
 
 **Images:** 
-<<<<<<< HEAD
 ![Mondrain](./images/Piet_Mondrian%20Broadway_Boogie_Woogie.jpg)
 
 
