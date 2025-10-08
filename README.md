@@ -13,6 +13,7 @@ For my project, I aim to recreate this rhythmic modularity using code — a grid
 This technique suits the assignment because it is highly modular, adaptable to animation, and captures the energetic interplay between order and improvisation.  
 
 **Images:** 
+
 ![Mondrain](./images/Piet_Mondrian%20Broadway_Boogie_Woogie.jpg)
 
 
@@ -23,4 +24,5 @@ Using a class-based grid in p5.js allows each cell to control its colour and bri
 By later mapping audio amplitude and frequency bands to each cell’s brightness or flicker rate, the grid can visually “dance” with sound — echoing Mondrian’s Boogie Woogie rhythm.
 This approach blends visual order with musical motion, enabling expressive and synchronised animation.
 
-**Example Link:**[p5.js Sound Amplitude Example](https://editor.p5js.org/p5/sketches/Sound:_Amplitude_Analysis)
+**Example Link:**[p5.js Sound Amplitude Example]
+(https://editor.p5js.org/p5/sketches/Sound:_Amplitude_Analysis)
