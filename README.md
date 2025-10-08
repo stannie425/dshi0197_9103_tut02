@@ -3,7 +3,8 @@
 **Student Name:** Danni Shi  
 **Unit:** IDEA9103  
 ---
-##Part1-Image Technique Inspiration
+*Part1-Image Technique Inspiration*
+
 **Chosen Artwork:** Piet Mondrian, *Broadway Boogie Woogie* (1942–43) 
 
 I am inspired by Mondrian’s use of geometric grids and vibrant colour blocks to represent the rhythm of New York’s jazz age.  
@@ -15,7 +16,7 @@ This technique suits the assignment because it is highly modular, adaptable to a
 ![Mondrain](./images/Piet_Mondrian%20Broadway_Boogie_Woogie.jpg)
 
 
-##Part2-Coding Technique Exploration  
+*Part2-Coding Technique Exploration*  
 **Technique:** Object-oriented grid structure with p5.js & audio amplitude mapping
 
 Using a class-based grid in p5.js allows each cell to control its colour and brightness independently, while a manager class defines layout and resizing.
